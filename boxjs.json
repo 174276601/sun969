@@ -18,7 +18,7 @@
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/QQread.js",
+            "repo": "",
             "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/QQread.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/QQread.png"],
             "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/QQread.js"
         },
